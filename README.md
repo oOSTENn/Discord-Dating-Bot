@@ -1,2 +1,3 @@
-# Discord-Dating-Bot / Бот-Знакомств-Дискорд
+# Discord-Dating-Bot
 A simple dating bot, the first version.
+Простой бот для знакомств, первая версия.
